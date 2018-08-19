@@ -3,12 +3,13 @@ import Link from 'next/link'
 
 import Layout from '../components/Layout'
 import BannerLanding from '../components/BannerLanding'
+import React from "react";
 
 export default () => (
 		<Layout>
 			<Head>
-				<title>Landing Page</title>
-				<meta name="description" content="Landing Page"/>
+				<title>Family Plus Connect</title>
+				<meta name="description" content="Family Plus Connect"/>
 			</Head>
 
 			<div>
@@ -25,6 +26,7 @@ export default () => (
 								sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
 						</div>
 					</section>
+
 					<section id="two" className="spotlights">
 						<section>
 							<Link href="/generic">
@@ -35,7 +37,7 @@ export default () => (
 									<header className="major">
 										<h3>Orci maecenas</h3>
 									</header>
-									<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna
+									<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna Maecenas massa sed magna
 										lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
 									<ul className="actions">
 										<li><Link href="/generic"><a className="button">Learn more</a></Link></li>

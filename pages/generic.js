@@ -1,6 +1,7 @@
 import Head from "next/head"
 
 import Layout from '../components/Layout'
+import React from "react";
 
 export default () => (
 		<Layout>

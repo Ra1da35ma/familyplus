@@ -24,14 +24,14 @@ const Contact = (props) => (
 				<section className="split">
 					<section>
 						<div className="contact-method">
-							<span className="icon alt fa-envelope"></span>
+							<span className="icon alt fa-envelope"/>
 							<h3>Email</h3>
 							<a href="#">information@untitled.tld</a>
 						</div>
 					</section>
 					<section>
 						<div className="contact-method">
-							<span className="icon alt fa-phone"></span>
+							<span className="icon alt fa-phone"/>
 							<h3>Phone</h3>
 							<span>(000) 000-0000 x12387</span>
 						</div>

@@ -38,7 +38,7 @@ module.exports = {
 			'/': {page: '/'},
 			'/landing': {page: '/landing'},
 			'/generic': {page: '/generic'},
-			'/landing': {page: '/landing'}
+			'/login': {page: '/login'}
 		}
 	}
 };
